@@ -46,6 +46,26 @@ Unlike the other tracks, this one needs provisioning before any build can start:
       Australia/Sydney — **before** ingesting anything, because currency and date
       formats propagate into the data model and are painful to unpick afterwards.
 
+## For recruiters and agencies
+
+**What this repository evidences:** Data Cloud Consultant discipline — identity resolution
+designed against deliberately messy triplicated customers, with match rules and
+reconciliation rules documented as separate decisions.
+
+**State as at 06/09/2026:** Scoped; org provisioned. Data Cloud provisioning and the
+locale correction are outstanding and block all ingestion. Nothing has been ingested or
+modelled yet, and this README will say so until it has.
+
+**Read these first:**
+
+1. [`deliverables/build-log.md`](deliverables/build-log.md) — the record so far, including the provisioning audit
+2. [`CLAUDE.md`](CLAUDE.md) — the engagement rules and the matching-versus-reconciliation distinction
+
+**How to verify:** every change is in the build log with its date and the requirement it
+traces to; corrections are appended, never edited over. The
+[skill-to-evidence map](https://portfolio.hossainconsulting.com/#evidence) on the portfolio shows where each certification is
+applied, and the [hiring page](https://portfolio.hossainconsulting.com/#hire) says what I am open to.
+
 ---
 
 Built by [Hemayet Hossain](https://github.com/hossainconsulting) · Sydney, Australia
