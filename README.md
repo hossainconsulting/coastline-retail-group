@@ -6,6 +6,7 @@
 
 **Certification track:** Data Cloud Consultant
 **Salesforce org:** Developer Edition (CLI alias `coastline`)
+**Lab:** working copy maintained on `salesforce-dev` (Ubuntu 24.04 LTS, VirtualBox VM on my own hardware). `salesforce-dev` is my role name for the Ubuntu lab.
 **Scope:** 10 weeks | source ingestion, data modelling, identity resolution, calculated insights, segmentation, activation, consent and privacy, governance handover
 
 ## The brief
